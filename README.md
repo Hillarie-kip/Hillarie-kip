@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Android, C#, Angular,Dart & SwiftUI**
 
-- 📫 you can reach me through **kalyahillary@gmail.com**
+- 📫 you can reach me through **kalyahillary@gmail.com** or **hillarykalya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
