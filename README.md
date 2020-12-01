@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/whack_panther" target="blank"><img src="https://img.shields.io/twitter/follow/whack_panther?logo=twitter&style=for-the-badge" alt="whack_panther" /></a> </p>
 
-- 💬 Ask me about **Java, Android, C#, Angular,Dart & SwiftUI**
+- 💬 Ask me about **Java, Android, C#, Angular,Dart/Flutter & SwiftUI**
 
 - 📫 you can reach me through **kalyahillary@gmail.com** or **hillarykalya@gmail.com**
 
