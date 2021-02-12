@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hillary Kalya</h1>
 <h3 align="center">A passionate software dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hillarie-kip&label=Profile%20views&color=0e75b6&style=flat" alt="hillarie-kip" /> </p>
 
-<p align="left"> <a href="https://twitter.com/whack_panther" target="blank"><img src="https://img.shields.io/twitter/follow/whack_panther?logo=twitter&style=for-the-badge" alt="whack_panther" /></a> </p>
 
-- 💬 Ask me about **Java, Android, C#, Angular,Dart/Flutter & SwiftUI**
+- 💬 Ask me about **Java, Android, C#,Dart/Flutter & SwiftUI**
+- Learning **React JS** 
 
 - 📫 you can reach me through **kalyahillary@gmail.com** or **hillarykalya@gmail.com**
 
