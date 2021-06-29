@@ -3,8 +3,8 @@
 
 
 
-- 💬 Ask me about **Java, Android, C#,Dart/Flutter & SwiftUI**
-- Learning **React JS** 
+- 💬 Ask me about **Java, Android, C#,Dart/Flutter & SwiftUI,React JS**
+- Learning **2022 - Python** 
 
 - 📫 you can reach me through **kalyahillary@gmail.com** or **hillarykalya@gmail.com**
 
