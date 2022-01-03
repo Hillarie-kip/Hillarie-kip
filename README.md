@@ -4,7 +4,11 @@
 
 
 - 💬 Ask me about **Java, Android, C#,Dart/Flutter & SwiftUI,React JS**
-- Learning **2022 - Python** 
+-**2022 - Learnings** 
+ Node Js
+ Aws
+ Digital Ocean
+ Rabbit MQ
 
 - 📫 you can reach me through **kalyahillary@gmail.com** or **hillarykalya@gmail.com**
 
