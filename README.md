@@ -3,9 +3,18 @@
 
 
 
-- 💬 Ask me about **Java, Android, C#,Dart/Flutter & SwiftUI,React JS**
-- **2022 - Learnings** 
-- **Node Js, Aws, Digital Ocean,Rabbit MQ**
+<h4 align="left">💬 Ask me about</h4>
+
+Languages :  
+
+- **Java,Android,C#,Dart/Flutter,SwiftUI,ReactJS**
+
+Database :  
+
+- **MSSQL,PostgreSQL,MySQL,Firebase**
+
+2022 - Learnings 
+- **Node Js,Aws,Digital Ocean**
 
 - 📫 you can reach me through **kalyahillary@gmail.com** or **hillarykalya@gmail.com**
 
