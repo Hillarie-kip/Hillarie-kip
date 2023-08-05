@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hillary Kalya</h1>
-<h3 align="center">A passionate software dev</h3>
+<h3 align="center">passionate guy</h3>
 
 
 
@@ -7,14 +7,14 @@
 
 Languages :  
 
-- **Java,Android,C#,Dart/Flutter,SwiftUI,ReactJS**
+- **C++,Java,Android,C#,Dart/Flutter,SwiftUI**
 
 Database :  
 
-- **MSSQL,PostgreSQL,MySQL,Firebase**
+- **MSSQL,PostgreSQL,MySQL,MongDB**
 
-2022 - Learnings 
-- **Node Js,Aws,Digital Ocean**
+2023 - Learnings 
+- **React JS**
 
 - 📫 you can reach me through **kalyahillary@gmail.com** or **hillarykalya@gmail.com**
 
