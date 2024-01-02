@@ -30,3 +30,11 @@ Database :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarie-kip&show_icons=true&locale=en&layout=compact" alt="hillarie-kip" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarie-kip&show_icons=true&locale=en" alt="hillarie-kip" /></p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hillarie-kip&show_icons=true&locale=en&layout=compact" alt="Hillarie-kip" /></p>
+
+<p margin-top="1rem">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hillarie-kip&show_icons=true&locale=en" alt="Hillarie-kip" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hillarie-kip&" alt="Hillarie-kip" /></p>
