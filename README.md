@@ -1,40 +1,31 @@
-<h1 align="center">Hi 👋, I'm Hillary Kalya</h1>
+<h1 align="center">hi 👋, i'm hillary kalya</h1>
 <h3 align="center">passionate guy</h3>
 
 
-
-<h4 align="left">💬 Ask me about</h4>
-
-Languages :  
-
-- **C++,Java,Android,C#,Dart/Flutter,SwiftUI**
-
-Database :  
-
-- **MSSQL,PostgreSQL,MySQL,MongDB**
-
-2023 - Learnings 
-- **React JS**
-
 - 📫 you can reach me through **kalyahillary@gmail.com** or **hillarykalya@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/whack_panther" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="whack_panther" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hillarie-kip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hillarie-kip" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hillarie-kip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hillarie-kip" height="30" width="40" /></a>
-<a href="https://instagram.com/hillarie-kip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hillarie-kip" height="30" width="40" /></a>
-</p>
+
+## 🌐social:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hillarie-kip) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Hillarie-kip) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WhackPanther) 
+
+# 💻 what i do love:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+# 💻 what i do hate:
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarie-kip&show_icons=true&locale=en&layout=compact" alt="hillarie-kip" /></p>
+# 📊 stats:
+![](https://github-readme-stats.vercel.app/api?username=Hillarie-kip&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hillarie-kip&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillarie-kip&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarie-kip&show_icons=true&locale=en" alt="hillarie-kip" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Hillarie-kip&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hillarie-kip&show_icons=true&locale=en&layout=compact" alt="Hillarie-kip" /></p>
 
-<p margin-top="1rem">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hillarie-kip&show_icons=true&locale=en" alt="Hillarie-kip" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hillarie-kip&" alt="Hillarie-kip" /></p>
+
+
