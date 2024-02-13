@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on [logixtoc web](logixtoc.com)
+- 👯 I’m looking to collaborate on [logixtoc web](https://logixtoc.com)
 
-- 📫 How to reach me **kalyahillary@gmail.com** or **hillarykalya@gmail.com**
+- 📫 How to reach me **kalyahillary@gmail.com** or **h.kalya@esquekenya.com** 
 
 - ⚡ Fun fact **we gon be alright**
 
