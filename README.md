@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [logixtoc app](https://play.google.com/store/apps/details?id=com.esquekenya.logixtoc)
 
-- 🌱 I’m currently polishing on my **React Js** 
+- 🌱 I’m currently polishing on my **NEXT Js** 
 
 - 👯 I’m looking to collaborate on [logixtoc web](https://logixtoc.africa)
 
@@ -14,9 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-
-
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hillarie-kip&theme=white&hide_border=false)<br/>
